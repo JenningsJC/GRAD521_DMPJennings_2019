@@ -35,7 +35,9 @@ I plan to employ both the Biological Data Profile (BDP) and the Ecological Metad
 # Storage and Security
 Data consisting of physical samples will likely be stored in a department laboratory during analysis. Field data sheets, field journals and laboratory journals will be stored in my assigned office on the OSU campus. Data sheets and journal pages will be photocopied, with copies stored separately at my residence and/or sent periodically to the PI's Juneau, AK office.
 
-All digital data files will be stored on my work laptop and backed up to the fisheries and wildlife network drive, synced to my Box project folder and copied to my Google Drive project folder. Backups will be made daily to an external drive. Hard drive backup images will be pushed to the Microsoft cloud monthly.
+All working digital data files will be stored on my work laptop and backed up to the fisheries and wildlife network drive, synced to my Box project folder and copied to my Google Drive project folder. Backups will be made daily to an external drive. Hard drive backup images will be pushed to the Microsoft cloud monthly.
+
+I will create an account with the Forest Service Research Data Archive. As complete datasets and results of analyses are assembled, they will be checked for quality and accuracy and uploaded to the Forest Research Data Archive to ensure the data will be publicly accessible after graduation.
 # Access and Data Sharing
 
 # Archiving and Preservation
