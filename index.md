@@ -1,5 +1,4 @@
 # Data Description
-
 The aquatic food web in: 1)a restored lower reach and 2)an unrestored upper reach of the South Fork McKenzie River will be sampled 4 times a year beginning in the Spring of 2019. Fish, aquatic primary producers, benthic invertebrates, organic detritus, and riparian vegetation will be sampled. 5 replicate samples will be taken in each habitat unit (main channel, side channel, slow water, etc.), using stratified sampling within each unit to sub-sample across the distribution of sub-patches (riffles, pools,...), proportionally to their overall cover. In this way, each replicate sample will consist of 3 to 8 sub-samples that will be aggregated.
 
 **Dataset Types and Method of Collection**
@@ -36,7 +35,6 @@ The aquatic food web in: 1)a restored lower reach and 2)an unrestored upper reac
 Four sample periods, with 5 replicates for each of 2 reaches = 40 replicate samples. There will be at least 40 field data sheets. If each replicate consists of an average of 5 sub-samples, there will be a minimum of 200 sample containers for invertebrates, primary producers, and detritus, each (600 total). 40 total fish will be euthanized and preserved. At a minimum, 1 GB of .csv files, scripts, and results of analysis.
 
 # Roles and Responsibilities
-
 The graduate researcher will submit the data management plan to the major professor and PI for review, revise, and implement the plan. The graduate researcher will be responsible for sample collection and data entry in the field, and will train field technicians in sampling and data recording protocols and inspect data sheets and sample containers for completeness and accuracy after every sample day. Images will be taken of data sheets with smartphone and emailed to the PI for immediate review and quality checks.
 
 The graduate researcher is responsible for establishing laboratory analysis and data entry protocols, and training assistants in those protocols. Laboratory datasheets will be inspected daily for errors, scanned and sent to the PI for periodic quality checks.
@@ -57,10 +55,13 @@ All digital data files will be stored on my work laptop, mirrored and synced to 
 
 The PI will create a controlled-access account with the Forest Service Research Data Archive. As raw and cleaned datasets and results of analyses are assembled, they will be checked for quality and accuracy using OpenRefine and transferred to my PI for further quality checks and submittal to the archive.
 
-# Access, Data Sharing, Archiving and Preservation
+# Access and Data Sharing
  During the field sampling year, data will be shared with the other Forest Service researchers involved with the project as .csv files and associated .xml metadata files. A secure Box account will be used to facilitate data sharing, and I will be responsible for version control and ensuring that datasets uploaded for sharing are the most up to date and clearly differentiated from other forms by using distinct file names and providing accurate associated metadata files. If researchers need to share their own analyses or modifications to the provided datasets, these files will be isolated in a separate file from the originals in the Box drive and clearly named and uploaded with current metadata to track the changes made and who made them.
 
- After final analysis and the publication of the results, the final data collection will be archived and preserved in the Forest Service Research Data Archive, which is publicly accessible. The data will be submitted as .csv files with accompanying .xml files in the EML and BDP metadata formats. This project is a component of a larger project that will continue until at least 2026, so final release of the data to the public will not occur until after this date at the earliest. Preservation will last indefinitely, and future access by the public and other researchers should be assured by the OPEN Government Data Act taking effect in 2020, that directs public agencies to make their data available to the public in machine readable formats.
+ After final analysis and the publication of the results and data under a CC BY license, the final data collection will be made available to the public by depositing it in the Forest Research Data Archive.
+
+# Archiving and Preservation
+Final datasets will be archived and preserved in the Forest Service Research Data Archive. The data will be submitted as .csv files with accompanying .xml files in the EML and BDP metadata formats. Preservation will last indefinitely, and future access by the public and other researchers should be assured by the OPEN Government Data Act taking effect in 2020, that directs public agencies to make their data available to the public in machine readable formats
 
  All of the physical fish specimens will be transferred to the OSU Fish collection at the end of the project. Aquatic invertebrate specimens will be transferred to the OSU Arthropod collection. Datasheets and journals will be transferred to the Forest Service for archiving and preservation.
 
